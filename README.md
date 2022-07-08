@@ -1,3 +1,5 @@
+1
+
 ![master](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=master)
 [![report card](https://img.shields.io/badge/go%20report-A+-brightgreen.svg?style=flat)](https://goreportcard.com/report/github.com/mattermost/terraform-provider-elasticsearch)
 
