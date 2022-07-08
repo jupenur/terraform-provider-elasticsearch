@@ -26,6 +26,9 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-go-
 
+      - name: Print env
+        run: env
+
       - name: Install dependencies
         run: make install-deps
 
