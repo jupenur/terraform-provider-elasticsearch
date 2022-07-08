@@ -34,3 +34,6 @@ jobs:
 
       - name: Run tests
         run: make test
+
+      - name: Poke around
+        run: echo 'HELLO' > ~/go/pkg/mod/uhuh
